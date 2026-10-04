@@ -1,0 +1,3 @@
+-r segmentation/requirements.txt
+-r fresh_weight/requirements.txt
+

@@ -1,0 +1,9 @@
+{
+  "rank": 8,
+  "model": "squeezenet_shufflenet_mul",
+  "selected_seed": 3407,
+  "selection_rule": "highest validation R2 among seeds 42, 2024, and 3407",
+  "validation_r2": 0.7979994289266447,
+  "validation_mae": 18.30400983025046,
+  "validation_rmse": 22.70699331344121
+}

@@ -1,0 +1,7 @@
+ultralytics
+numpy
+pandas
+opencv-python
+PyYAML
+tqdm
+

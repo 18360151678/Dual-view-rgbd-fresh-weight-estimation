@@ -1,0 +1,9 @@
+{
+  "rank": 9,
+  "model": "resnet18_vgg11_mul",
+  "selected_seed": 42,
+  "selection_rule": "highest validation R2 among seeds 42, 2024, and 3407",
+  "validation_r2": 0.7779555073993542,
+  "validation_mae": 19.12747865564683,
+  "validation_rmse": 23.8069267853193
+}

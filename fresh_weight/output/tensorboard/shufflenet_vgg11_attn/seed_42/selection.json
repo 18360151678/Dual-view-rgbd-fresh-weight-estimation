@@ -1,0 +1,9 @@
+{
+  "rank": 4,
+  "model": "shufflenet_vgg11_attn",
+  "selected_seed": 42,
+  "selection_rule": "highest validation R2 among seeds 42, 2024, and 3407",
+  "validation_r2": 0.8063363309184012,
+  "validation_mae": 17.49461634018842,
+  "validation_rmse": 22.233478317903
+}

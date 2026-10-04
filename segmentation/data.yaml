@@ -1,0 +1,8 @@
+# Example dataset configuration. evaluate.py writes an absolute runtime copy.
+path: test_set
+train: images
+val: images
+test: images
+nc: 1
+names:
+  - non-heading Chinese cabbage

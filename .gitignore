@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# Large downloadable assets are published with the GitHub Release.
+release_assets/
+segmentation/weights/
+segmentation/test_set/
+segmentation/output/
+fresh_weight/weights/
+fresh_weight/validation_set/
+fresh_weight/output/runs/
+fresh_weight/output/*.xlsx
+
