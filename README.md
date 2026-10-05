@@ -53,15 +53,6 @@ The release contains:
 
 See the task-specific READMEs for extraction and evaluation instructions.
 
-## Important checkpoint provenance
-
-The released Top-10 checkpoints, three-seed summary table, and 34-sample
-validation package are archived outputs from the completed experiment listed
-in `fresh_weight/results/`. The released validation package uses the original
-plant-level 80% training and 20% validation partition.
-`train.py` implements the requested two-stage split for new reproducibility
-runs. New strict test-set claims should be produced by retraining with this
-code and evaluating only after model selection is complete.
 
 ## License
 
