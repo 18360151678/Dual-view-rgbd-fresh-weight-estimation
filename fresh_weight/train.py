@@ -1,5 +1,3 @@
-"""Train RGB-D models after a fixed two-stage train/validation/test split."""
-
 from __future__ import annotations
 
 import argparse
