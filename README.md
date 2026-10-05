@@ -36,7 +36,7 @@ rounding gives 108 training plants, 28 validation plants, and 34 test plants.
 The same manifest is reused for every architecture and training seed.
 
 Training is repeated with seeds 42, 2024, and 3407. Batch size is 4 for every
-backbone, including VGG-11. The default optimizer settings are learning rate
+backbone. The default optimizer settings are learning rate
 `1e-4` and weight decay `1e-5`.
 
 ## Downloadable assets
