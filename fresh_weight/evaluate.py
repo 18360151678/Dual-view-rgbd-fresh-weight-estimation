@@ -1,5 +1,3 @@
-"""Evaluate saved checkpoints on the validation or independent test split."""
-
 from __future__ import annotations
 
 import argparse
