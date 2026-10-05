@@ -1,5 +1,3 @@
-"""Shared data, model, split, and statistical utilities."""
-
 from __future__ import annotations
 
 import json
